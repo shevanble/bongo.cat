@@ -256,7 +256,7 @@ select#select-instrument option {
   z-index: 20
 }
 
-.instruments>#bongo, #layer-marimba {
+.instruments>#marimba, #layer-marimba {
   background-image: url(../images/marimba.png)
 }
 
@@ -268,7 +268,7 @@ select#select-instrument option {
   background-image: url(../images/cymbal.png)
 }
 
-.instruments>#marimba, #layer-bongo {
+.instruments>#bongo, #layer-bongo {
   background-image: url(../images/bongo.png)
 }
 
