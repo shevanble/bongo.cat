@@ -257,7 +257,7 @@ select#select-instrument option {
 }
 
 .instruments>#bongo, #layer-bongo {
-  background-image: url(../images/bongo.png)
+  background-image: url(../images/marimba.png)
 }
 
 .instruments>#keyboard, #layer-keyboard {
@@ -269,7 +269,7 @@ select#select-instrument option {
 }
 
 .instruments>#marimba, #layer-marimba {
-  background-image: url(../images/marimba.png)
+  background-image: url(../images/bongo.png)
 }
 
 .instruments>#tambourine, #layer-tambourine {
